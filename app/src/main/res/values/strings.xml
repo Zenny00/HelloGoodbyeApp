@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab1Example1</string>
+
+    <string name="exclaim_btn">Exclamation</string>
+    <string name="hello">Hello</string>
+    <string name="goodbye">Goodbye</string>
+
+    <string name="exclaim_img">Exclamation image</string>
+</resources>
